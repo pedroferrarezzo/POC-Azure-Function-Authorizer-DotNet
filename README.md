@@ -1,1 +1,1 @@
-# POC-api-gateway-Azure-API-Management
+# POC-Azure-Function-Authorizer-DotNet
